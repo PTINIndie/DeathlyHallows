@@ -1,0 +1,8 @@
+Arcade Deathly Hallows
+----------------------
+this game has inspired by harry potter by J.K and the story of battle of hogwarts. 
+game have developed by Yashar Mirzaei and some parts of the game have personal use licence by other developers so be ware to don't use them on other projects.
+Contact us for more game dev stuff on Instagram: PTIN.Indie
+----------------------
+How to play:
+-press any key to start game then by up & down arrow keys move the player!
